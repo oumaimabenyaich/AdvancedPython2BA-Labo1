@@ -10,4 +10,3 @@ def test_roots():
 
 def test_integrate():
     assert utils.integrate(1,0,1) == 1
-
