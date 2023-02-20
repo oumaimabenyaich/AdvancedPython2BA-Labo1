@@ -8,4 +8,4 @@ def test_roots():
     assert utils.roots(1,0,0) == 0
 
 def test_integrate():
-    assert utils.integrate(x,0,1) == 0.5
+    assert utils.integrate('x',0,1) == 0.5
